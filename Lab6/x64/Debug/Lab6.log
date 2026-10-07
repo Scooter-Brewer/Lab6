@@ -1,0 +1,4 @@
+﻿  Lab6.cpp
+C:\Users\Scooter\source\repos\Lab6\Lab6\Lab6.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Scooter\source\repos\Lab6\Lab6\Lab6.cpp(32,21): warning C4018: '<': signed/unsigned mismatch
+  Lab6.vcxproj -> C:\Users\Scooter\source\repos\Lab6\x64\Debug\Lab6.exe
